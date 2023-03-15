@@ -1,3 +1,5 @@
+Problems of day 1:
+
 1. Find all pairs of an integer array whose sum is equal to a given number.
 2. Find the largest and smallest number in an unsorted integer array.
 3. How to count a number of vowels and consonants in a String?
